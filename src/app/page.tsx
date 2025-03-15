@@ -12,6 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
+        <h1>Reza Aulia</h1>
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
@@ -24,6 +25,10 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
         </ol>
+        <div>
+          <h1>Hello World</h1>
+          <button>tesss tekan woi</button>
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
